@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"> About me </h2>
 
-I'm a passionate Python backend developer with expertise in building scalable and efficient web applications using Django and FastAPI. This repository showcases my work, ideas, and experiments in the world of Python backend development.
+Hi! I’m a Python backend developer and machine learning (ML) developer with a strong focus on building reliable, scalable systems and exploring the latest in AI-driven solutions. My work spans backend development, API design, and deploying ML models to tackle real-world problems, from predictive analytics to natural language processing. Whether creating APIs, fine-tuning models, or optimizing CI/CD pipelines, I’m passionate about crafting efficient code and working with data to create impactful solutions.
+
+Let’s connect and build something awesome!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rikoze777&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rikoze777&theme=solarized_dark)
